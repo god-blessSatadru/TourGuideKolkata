@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">TourGuideKolkata</string>
+    <string name="Heading_Eden_Gardens">Eden Gardens</string>
+    <string name="Heading_Dakshineswar_Kali_Temple">Dakshineswar Kali Temple</string>
+    <string name="Heading_Victoria_Memorial_Hall">Victoria Memorial Hall</string>
+    <string name="Heading_Mother_House">Mother House</string>
+    <string name="Heading_Howrah_Bridge">Howrah Bridge</string>
+    <string name="Heading_Park_Street">Park Street</string>
+    <string name="Heading_South_Park_Street_Cemetery">South Park Street Cemetery</string>
+    <string name="Heading_Eco_Tourism_Park">Eco Tourism Park</string>
+    <string name="Heading_Science_City">Science City</string>
+    <string name="Heading_Birla_Temple">Birla Temple</string>
+    <string name="Heading_Barbeque_Nation">Barbeque Nation</string>
+    <string name="Heading_Baan_Thai">Baan Thai</string>
+    <string name="Heading_Ballygunge_Place_6">6 Ballygunge Place</string>
+    <string name="Heading_Bar_B_Q">Bar B Q</string>
+    <string name="Heading_Oh_Calcutta">Oh Calcutta</string>
+    <string name="Heading_Arsalan">Arsalan</string>
+    <string name="Heading_Peter_Cat">Peter Cat</string>
+    <string name="Heading_Mocambo">Mocambo</string>
+    <string name="Heading_Dum_Pukht">Dum Pukht</string>
+    <string name="Heading_Aaheli">Aaheli</string>
+    <string name="Heading_Hyatt_Regency_Kolkata">Hyatt Regency Kolkata</string>
+    <string name="Heading_The_Oberoi_Grand">The Oberoi Grand</string>
+    <string name="Heading_Taj_Bengal_Kolkata">Taj Bengal Kolkata</string>
+    <string name="Heading_ITC_Sonar">ITC Sonar</string>
+    <string name="Heading_The_Gateway_Hotel_EM_Bypass">The Gateway Hotel EM Bypass</string>
+    <string name="Heading_Novotel_Kolkata_Hotel_and_Residences">Novotel Kolkata Hotel and Residences</string>
+    <string name="Heading_Senses_Hotel">Senses Hotel</string>
+    <string name="Heading_Tatvam_Residency">Tatvam Residency</string>
+    <string name="Heading_Monotel_Luxury_Business_Hotel">Monotel Luxury Business Hotel</string>
+    <string name="Description_Eden_Gardens"> Eden Gardens is the one of the most popular cricket grounds in world.
+                  It is really amazing to be there during any driver match or and festival.
+                  Its really enjoyable place.."
+    </string>
+    <string name="Description_Dakshineswar_Kali_Temple">"It is extremely popular among the locals and has a good crowd.
+        Pretty much away from the city. Its a big temple and lots of foreigners are also seen here."
+    </string>
+    <string name="Description_Victoria_Memorial_Hall">
+         "Victoria Memorial or Victoria Memorial Hall was built to commemorate the peak of the British Empire in India"
+    </string>
+    <string name="Description_Mother_House">
+       "The Missionaries of Charity's Mother House is a holy place of pilgrimage and reverence for
+        those who are searching for a more meaningful existence."
+    </string>
+    <string name="Description_Howrah_Bridge">
+        "Howrah Bridge also known as Rabindra Setu is a suspension type balanced cantilever bridge
+        located in West Bengal, India. It connects Howrah and Kolkata."
+    </string>
+    <string name="Description_Park_Street">
+        "Park Street is a famous thoroughfare in the city of Kolkata (formerly Calcutta), India.
+        The street runs through what was a deer park of Sir Elijah Impey"
+    </string>
+    <string name="Description_South_Park_Street_Cemetery">
+       South Park Street Cemetery is located on Mother Teresa Sarani, Kolkata, India.
+        The road used to be called Park Street, and prior to that Burial Ground Road.
+    </string>
+    <string name="Description_Eco_Tourism_Park">
+        "Eco Tourism Park surrounds a picturesque water body that measures 104 acres in surface area.
+         It has an island in the middle, which can be reached by a bridge"
+    </string>
+    <string name="Description_Science_City">
+        "Science City, Kolkata is the largest science centre in the Indian subcontinent under
+         National Council of Science Museums (NCSM)"
+    </string>
+    <string name="Description_Birla_Temple">
+        "Birla Temple Kolkata is a popular sightseeing spot of the city.
+         The temple is dedicated to the consortium of Lord Krishna and his beloved Radha."
+    </string>
+    <string name="Description_Barbeque_Nation">
+        "Barbecue nation and its sea food is extremely delicious. Its very crowded most often.
+         Good dining on budget. Large variants of sea food are served here."
+    </string>
+    <string name="Description_Baan_Thai">
+        "This hotel has Great Ambience.. Amazing hospitality by the staff.
+         Best thai restaurant in Kolkata.. Overall great experience."
+    </string>
+    <string name="Description_Ballygunge_Place_6">
+        "Excellent food, great spread for vegetarians too, impressive hospitality.
+         Must visit if you are interested in sampling local cuisine."
+    </string>
+    <string name="Description_Bar_B_Q">
+        "Great place for Unlimited Kebabs, Wholesome food....
+        famous for its unlimited kebab buffet platter"
+    </string>
+    <string name="Description_Oh_Calcutta">
+        "From Smoked Hilsa to Dub Sandesh, every single dish is just awesome
+        , Chitagong Masala murgi , Borisaler Chingri Polao.. every dish was just mouthwatering."
+
+    </string>
+    <string name="Description_Arsalan">
+        "It's been long time they are serving delicious biryani..if u been to Kolkata
+         you should just arsanal for yummy biryani and firni as there speciality"
+    </string>
+    <string name="Description_Peter_Cat">
+        "This is the best place to taste kebabs. They offers very good kebabs.
+         Prices are reasonable. Week days are less crowded as compared to weekends."
+    </string>
+    <string name="Description_Mocambo">
+        "The food here is exotic and the ambience superb. The service is also remarkable.
+         This restaurant is an ideal place to go with family and friends."
+    </string>
+    <string name="Description_Dum_Pukht">
+        "This is a real royal treat for your senses. Be treated like the ancient Indian royals.
+         Food is good and service is even better."
+    </string>
+    <string name="Description_Aaheli">
+        "A complete and well laid out Bengali fine dining experience.
+        Though prices on a bit higher side but the service and ambiance is very nice."
+    </string>
+    <string name="Description_Hyatt_Regency_Kolkata">
+        "Excellent stay and dinning, very near to Dum Dum Airport.
+        Besides EM bypass. Well connected with the City. Attached to Salt Lake City of Kolkata"
+    </string>
+    <string name="Description_The_Oberoi_Grand">
+        "Nice hotel with amazing hospitality by the staff. Thai food was very tasty
+        ....Swimming pool timings can be extended upto 10 pm instead of 7 pm"
+    </string>
+    <string name="Description_Taj_Bengal_Kolkata">
+        "Excellent place to stay both for business and pleasure The reception is manned by
+         extremely polite receptionists who go the extra mile to make the stay comfortable"
+    </string>
+    <string name="Description_ITC_Sonar">
+        "This is by far the best hotel Kolkata has to offer whether it be a business or a personal trip.
+        Staff here is the best example of the philosophy of Indian hospitality"
+    </string>
+    <string name="Description_The_Gateway_Hotel_EM_Bypass">
+        "Cleanness is the best part of this hotel. food is very delicious
+        and service staff is very attentive."
+    </string>
+    <string name="Description_Novotel_Kolkata_Hotel_and_Residences">
+        "Novotel Kolkata is a fantastic hotel to stay. Amidst the newer area of Kolkata,
+         it is huge with very good rooms and ambience."
+    </string>
+    <string name="Description_Senses_Hotel">
+        "This hotel is placed in nice location, particularly very suitable for people visiting IT
+        offices in Kolkata. Comfortable stay, courteous and friendly staff.
+        Well maintained rooms and excellent service"
+    </string>
+    <string name="Description_Tatvam_Residency">
+        "Home away from home. The rooms are quite spacious. Staff very helpful.
+        Tasty food. Overall ambience very good. All in all a very good hotel."
+    </string>
+    <string name="Description_Monotel_Luxury_Business_Hotel">
+        "Located in the business centre of salt lake, kolkata and value for money luxury business hotel.
+        Very good option or overnighter or long stay for business purpose. "
+    </string>
+     <string name="Season">
+        "Kolkata. The city enjoys winter from November to February. The low temperature during
+         this season ranges between 9 and 11 degrees Celsius. It is the best time to visit
+         Kolkata as the weather is cool and pleasant too. "
+    </string>
+    <string name="tab1">Places</string>
+    <string name="tab2">Accomodation</string>
+    <string name="tab3">Dinning</string>
+    <string name="tab4">Season</string>
+    <string name="title_activity_places">PlacesActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
